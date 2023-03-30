@@ -1,3 +1,4 @@
 I am creating a new file in git repo clone.
 I am writing this line in the main branch.
 I am writing this line in a new_B branch.
+I am writing this line in the git bash
